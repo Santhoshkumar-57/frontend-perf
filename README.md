@@ -8,7 +8,7 @@ This repo contains slides and materials to help you learn about frontend perform
 - **Confidently build a performant site** from scratch while balancing other priorities like feature backlogs and deadlines.
 - **Use automated workflow tools** to check every change you make to a site, ensuring that major changes in performance do not go unnoticed during the development cycle.
 
-## History
+
 
 * [DrupalCon NOLA 2016](https://events.drupal.org/neworleans2016/training/frontend-performance)
 * [DrupalCon LA 2015](https://events.drupal.org/losangeles2015/training/frontend-performance-training)
