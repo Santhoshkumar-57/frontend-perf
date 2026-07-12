@@ -1,4 +1,4 @@
-# Frontend Performance Training
+# Frontend Performance 
 
 This repo contains slides and materials to help you learn about frontend performance. From basic principles to workflow automation, you and your team can learn how to audit sites, fix problems, and stick to a performance budget throughout the life of a project.
 
@@ -16,7 +16,7 @@ This repo contains slides and materials to help you learn about frontend perform
 
 # Installation
 
-This repo uses Ruby and npm to power a Jekyll site. Assuming you already have [Homebrew](http://brew.sh/), the following commands will install the whole training kit for you (run them at the root of the repo).
+This repo uses Ruby and npm to power a Jekyll site. Assuming you already have [Homebrew](http://brew.sh/), the following commands  install the whole training kit for you (run them at the root of the repo).
 
 # NOTE: NEVER USE `sudo` TO INSTALL!
 
